@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var str = "  hello World  ";
+    // function deleteLast(str) {
+    //     if(typeof str === 'string'){
+    //         var trimStr = str.trim();
+    //         var only = trimStr.substring(0,str.length - 1);
+    //         console.log(only);
+    //     }
+    // }
+    function trim(str) {
+        if(typeof str === 'string'){
+            var trimStr = str.substring(0,str.length-1);
+        }
+        return trimStr;
+    }
+    console.log(trim(str));
+</script>
+</body>
+</html>

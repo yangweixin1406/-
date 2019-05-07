@@ -1,0 +1,17 @@
+html全局属性有哪些（包括h5）？
+accesskey:  设置快捷键
+class：     为元素设置类标识
+contenteditable： 指定元素内容是否可编辑
+contextmenu： 自定义鼠标右键弹出上下文菜单内容
+data-*：     为元素增加自定义属性
+dir：        设置元素文本方向
+draggable：  设置元素是否可拖拽
+dropzone：   设置元素拖拽类型
+hidden：     规定元素仍未或不在相关
+id：         元素设置id
+lang：       元素内容的语言
+spellcheck： 是否启动拼写和语法检查
+style：      行内样式
+tableindex： 设置元素可以获得焦点，通过tab导航
+title：      规定元素有关的额外信息
+translate：  元素和子孙节点是否需要初始化

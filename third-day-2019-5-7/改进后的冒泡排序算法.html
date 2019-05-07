@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var arr = [15,5,9,6,3,8];
+    function bubbleSort2(arr) {
+        var i = arr.length - 1;    //初始时，最后位置保持不变
+        while(i > 0){
+            var pos = 0;
+            for(var j=0;j<i;j++ ){
+                if(arr[j] > arr[j+1]){
+                    pos = j;    //记录交换的位置
+                    var tmp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = tmp;
+                }
+            }
+            i = pos;
+            console.log(i);
+        }
+        return arr;
+    }
+    console.log(bubbleSort2(arr));
+</script>
+</body>
+</html>

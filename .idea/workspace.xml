@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb679bac-1759-4936-bf1a-e2498b8cf842" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-day-2019-5-6/css3新增属性" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-day-2019-5-6/html元素有哪些" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-day-2019-5-6/冒泡排序.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-day-2019-5-6/方法去除字符串空格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third-day-2019-5-7/html全局属性有哪些" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third-day-2019-5-7/去除字符串中最后一个指定字符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third-day-2019-5-7/改进后的冒泡排序算法.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,50 +20,54 @@
     <session id="1760920010">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css3新增属性" value="1" />
-          <entry key="html" value="5" />
+          <entry key="html" value="8" />
           <entry key="html元素有哪些" value="1" />
+          <entry key="html全局属性有哪些" value="1" />
           <entry key="md" value="1" />
           <entry key="页面导入样式时，link和@import的区别" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="5" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="HTML" value="8" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css3新增属性" value="803" />
-          <entry key="html" value="1514" />
+          <entry key="html" value="2112" />
           <entry key="html元素有哪些" value="652" />
+          <entry key="html全局属性有哪些" value="423" />
+          <entry key="txt" value="158" />
           <entry key="页面导入样式时，link和@import的区别" value="317" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1514" />
-          <entry key="PLAIN_TEXT" value="1772" />
+          <entry key="HTML" value="2112" />
+          <entry key="PLAIN_TEXT" value="2353" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/second-day-2019-5-6/html元素有哪些">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
+            <state relative-caret-position="627">
               <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
             </state>
           </provider>
@@ -74,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/second-day-2019-5-6/css3新增属性">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+            <state relative-caret-position="1178">
+              <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -83,17 +85,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/second-day-2019-5-6/方法去除字符串空格.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="209">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/second-day-2019-5-6/冒泡排序.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/third-day-2019-5-7/html全局属性有哪些">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/third-day-2019-5-7/在页面中隐藏元素的方法有哪些.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/third-day-2019-5-7/去除字符串中最后一个指定字符.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/second-day-2019-5-6/冒泡排序.html">
+        <entry file="file://$PROJECT_DIR$/third-day-2019-5-7/改进后的冒泡排序算法.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="380">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -121,6 +159,11 @@
         <option value="$PROJECT_DIR$/second-day-2019-5-6/css3新增属性" />
         <option value="$PROJECT_DIR$/second-day-2019-5-6/方法去除字符串空格.html" />
         <option value="$PROJECT_DIR$/second-day-2019-5-6/冒泡排序.html" />
+        <option value="$PROJECT_DIR$/third-day-2019-5-7/html全局属性有哪些" />
+        <option value="$PROJECT_DIR$/third-day-2019-5-7/在页面中隐藏元素的方法有哪些.html" />
+        <option value="$PROJECT_DIR$/third-day-2019-5-7/在页面中隐藏元素的方法有哪些.txt" />
+        <option value="$PROJECT_DIR$/third-day-2019-5-7/去除字符串中最后一个指定字符.html" />
+        <option value="$PROJECT_DIR$/third-day-2019-5-7/改进后的冒泡排序算法.html" />
       </list>
     </option>
   </component>
@@ -130,7 +173,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="175" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
@@ -141,6 +184,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="daily-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -151,18 +205,7 @@
             <path>
               <item name="daily-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="second-day-2019-5-6" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="daily-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="daily-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="third-day-2019-5-7" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -201,12 +244,13 @@
       <updated>1557021370281</updated>
       <workItem from="1557021372694" duration="9168000" />
       <workItem from="1557109734820" duration="42000" />
-      <workItem from="1557109798796" duration="3881000" />
+      <workItem from="1557109798796" duration="4491000" />
+      <workItem from="1557194720660" duration="2946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13091000" />
+    <option name="totallyTimeSpent" value="16647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -271,31 +315,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/second-day-2019-5-6/html元素有哪些">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
+        <state relative-caret-position="627">
           <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/second-day-2019-5-6/css3新增属性">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        <state relative-caret-position="1178">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/second-day-2019-5-6/方法去除字符串空格.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="209">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/second-day-2019-5-6/冒泡排序.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/third-day-2019-5-7/html全局属性有哪些">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-day-2019-5-7/在页面中隐藏元素的方法有哪些.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-day-2019-5-7/去除字符串中最后一个指定字符.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-day-2019-5-7/改进后的冒泡排序算法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
