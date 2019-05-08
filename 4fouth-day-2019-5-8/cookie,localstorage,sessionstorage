@@ -1,0 +1,7 @@
+cookie,sessionStorage和localStorage
+
+cookie: 一般由服务器生成，可设置失效时间。如果在浏览器端生成cookie，
+        默认是关闭浏览器后失效，大小在4k左右，每次都会携带在http头中，
+        如果使用cookie保存过多数据会带来性能问题。
+localStorage:     生命周期是永久保存，大小一般为5MB，仅在客户端保存，不参与服务器通信。
+sessionStorage:   仅在当前回话下有效，关闭页面或浏览器后清除。

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    function changeName(str) {
+        if(typeof str !== 'string'){
+            alert('请去确认是字符串吗？');
+        }else{
+            var newName = '';
+            var arr = str.split("_");
+            arr.map((item,i)=>{
+                if(i === 0){
+                    return aa = item;
+                }else{
+                    newName += aa + item.substr(0,1).toUpperCase() + item.substr(1);
+                }
+            });
+        }
+        return newName;
+    }
+
+    var str = "name_kkl";
+    console.log(changeName(str));
+</script>
+
+</body>
+</html>
