@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb679bac-1759-4936-bf1a-e2498b8cf842" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4fouth-day-2019-5-8/cookie,localstorage,sessionstorage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4fouth-day-2019-5-8/css选择器有哪些，哪些属性可以继承" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4fouth-day-2019-5-8/实现一个div滑动的动画，由快至慢五秒结束.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4fouth-day-2019-5-8/把下划线命名改成驼峰命名.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4fouth-day-2019-5-8/选择排序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5fifth-day-2019-5-9/简述超链接target属性的取值和作用" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5fifth-day-2019-5-9/表达式输出什么.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5fifth-day-2019-5-9/选择排序练习.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-day-2019-5-5/双飞翼布局.html" beforeDir="false" afterPath="$PROJECT_DIR$/1first-day-2019-5-5/双飞翼布局.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-day-2019-5-5/圣杯布局.html" beforeDir="false" afterPath="$PROJECT_DIR$/1first-day-2019-5-5/圣杯布局.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-day-2019-5-5/递归算法实现数组长度为5.html" beforeDir="false" afterPath="$PROJECT_DIR$/1first-day-2019-5-5/递归算法实现数组长度为5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-day-2019-5-5/页面导入样式时，link和@import的区别" beforeDir="false" afterPath="$PROJECT_DIR$/1first-day-2019-5-5/页面导入样式时，link和@import的区别" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second-day-2019-5-6/css3新增属性" beforeDir="false" afterPath="$PROJECT_DIR$/2second-day-2019-5-6/css3新增属性" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second-day-2019-5-6/html元素有哪些" beforeDir="false" afterPath="$PROJECT_DIR$/2second-day-2019-5-6/html元素有哪些" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second-day-2019-5-6/冒泡排序.html" beforeDir="false" afterPath="$PROJECT_DIR$/2second-day-2019-5-6/冒泡排序.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second-day-2019-5-6/方法去除字符串空格.html" beforeDir="false" afterPath="$PROJECT_DIR$/2second-day-2019-5-6/方法去除字符串空格.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third-day-2019-5-7/html全局属性有哪些" beforeDir="false" afterPath="$PROJECT_DIR$/3third-day-2019-5-7/html全局属性有哪些" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third-day-2019-5-7/去除字符串中最后一个指定字符.html" beforeDir="false" afterPath="$PROJECT_DIR$/3third-day-2019-5-7/去除字符串中最后一个指定字符.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third-day-2019-5-7/在页面中隐藏元素的方法有哪些.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3third-day-2019-5-7/在页面中隐藏元素的方法有哪些.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third-day-2019-5-7/改进后的冒泡排序算法.html" beforeDir="false" afterPath="$PROJECT_DIR$/3third-day-2019-5-7/改进后的冒泡排序算法.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,48 +21,52 @@
     <session id="1760920010">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cookie,localstorage,sessionstorage" value="1" />
+          <entry key="css3新增伪类有哪些" value="1" />
           <entry key="css3新增属性" value="1" />
           <entry key="css选择器有哪些，哪些属性可以继承" value="1" />
-          <entry key="html" value="11" />
+          <entry key="html" value="14" />
           <entry key="html元素有哪些" value="1" />
           <entry key="html全局属性有哪些" value="1" />
           <entry key="md" value="1" />
+          <entry key="简述超链接target属性的取值和作用" value="1" />
           <entry key="页面导入样式时，link和@import的区别" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="11" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="HTML" value="14" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cookie,localstorage,sessionstorage" value="277" />
+          <entry key="css3新增伪类有哪些" value="79" />
           <entry key="css3新增属性" value="803" />
           <entry key="css选择器有哪些，哪些属性可以继承" value="201" />
-          <entry key="html" value="3045" />
+          <entry key="html" value="3449" />
           <entry key="html元素有哪些" value="652" />
           <entry key="html全局属性有哪些" value="423" />
           <entry key="txt" value="158" />
+          <entry key="简述超链接target属性的取值和作用" value="142" />
           <entry key="页面导入样式时，link和@import的区别" value="317" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="3045" />
-          <entry key="PLAIN_TEXT" value="2831" />
+          <entry key="HTML" value="3449" />
+          <entry key="PLAIN_TEXT" value="3052" />
         </counts>
       </usages-collector>
     </session>
@@ -83,37 +74,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/cookie,localstorage,sessionstorage">
+        <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="200">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/css选择器有哪些，哪些属性可以继承">
+        <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/表达式输出什么.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/把下划线命名改成驼峰命名.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="264">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/选择排序.html">
+        <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/选择排序练习.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="407">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -151,6 +133,11 @@
         <option value="$PROJECT_DIR$/4fouth-day-2019-5-8/css选择器有哪些，哪些属性可以继承" />
         <option value="$PROJECT_DIR$/4fouth-day-2019-5-8/把下划线命名改成驼峰命名.html" />
         <option value="$PROJECT_DIR$/4fouth-day-2019-5-8/选择排序.html" />
+        <option value="$PROJECT_DIR$/5fifth-day-2019-5-9/简述超链接target属性的取值和作用" />
+        <option value="$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些？.html" />
+        <option value="$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些" />
+        <option value="$PROJECT_DIR$/5fifth-day-2019-5-9/表达式输出什么.html" />
+        <option value="$PROJECT_DIR$/5fifth-day-2019-5-9/选择排序练习.html" />
       </list>
     </option>
   </component>
@@ -171,6 +158,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="daily-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -181,18 +179,7 @@
             <path>
               <item name="daily-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="4fouth-day-2019-5-8" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="daily-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="daily-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="5fifth-day-2019-5-9" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -233,12 +220,13 @@
       <workItem from="1557109734820" duration="42000" />
       <workItem from="1557109798796" duration="4491000" />
       <workItem from="1557194720660" duration="3552000" />
-      <workItem from="1557279598827" duration="6489000" />
+      <workItem from="1557279598827" duration="6558000" />
+      <workItem from="1557367647653" duration="1937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23742000" />
+    <option name="totallyTimeSpent" value="25748000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -364,31 +352,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/cookie,localstorage,sessionstorage">
+    <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/选择排序.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="370">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/把下划线命名改成驼峰命名.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/css选择器有哪些，哪些属性可以继承">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/把下划线命名改成驼峰命名.html">
+    <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/cookie,localstorage,sessionstorage">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="76">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4fouth-day-2019-5-8/选择排序.html">
+    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/简述超链接target属性的取值和作用">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="186">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些？.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/表达式输出什么.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/选择排序练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
