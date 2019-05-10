@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb679bac-1759-4936-bf1a-e2498b8cf842" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5fifth-day-2019-5-9/简述超链接target属性的取值和作用" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5fifth-day-2019-5-9/表达式输出什么.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5fifth-day-2019-5-9/选择排序练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6sixth-day-2019-5-10/css盒子模型.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6sixth-day-2019-5-10/html DOCTYPE有什么作用？" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6sixth-day-2019-5-10/基础函数API考察.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,12 +20,12 @@
     <session id="1760920010">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,18 +34,20 @@
           <entry key="css3新增伪类有哪些" value="1" />
           <entry key="css3新增属性" value="1" />
           <entry key="css选择器有哪些，哪些属性可以继承" value="1" />
-          <entry key="html" value="14" />
+          <entry key="html" value="16" />
+          <entry key="html DOCTYPE有什么作用？" value="1" />
           <entry key="html元素有哪些" value="1" />
           <entry key="html全局属性有哪些" value="1" />
           <entry key="md" value="1" />
+          <entry key="txt" value="1" />
           <entry key="简述超链接target属性的取值和作用" value="1" />
           <entry key="页面导入样式时，link和@import的区别" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="14" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="HTML" value="16" />
+          <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -55,18 +56,19 @@
           <entry key="css3新增伪类有哪些" value="79" />
           <entry key="css3新增属性" value="803" />
           <entry key="css选择器有哪些，哪些属性可以继承" value="201" />
-          <entry key="html" value="3449" />
+          <entry key="html" value="3752" />
+          <entry key="html DOCTYPE有什么作用？" value="149" />
           <entry key="html元素有哪些" value="652" />
           <entry key="html全局属性有哪些" value="423" />
-          <entry key="txt" value="158" />
+          <entry key="txt" value="311" />
           <entry key="简述超链接target属性的取值和作用" value="142" />
           <entry key="页面导入样式时，link和@import的区别" value="317" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="3449" />
-          <entry key="PLAIN_TEXT" value="3052" />
+          <entry key="HTML" value="3752" />
+          <entry key="PLAIN_TEXT" value="3354" />
         </counts>
       </usages-collector>
     </session>
@@ -74,28 +76,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些">
+        <entry file="file://$PROJECT_DIR$/6sixth-day-2019-5-10/css盒子模型.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="90">
+              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/表达式输出什么.html">
+        <entry file="file://$PROJECT_DIR$/6sixth-day-2019-5-10/html DOCTYPE有什么作用？">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="90">
+              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/选择排序练习.html">
+        <entry file="file://$PROJECT_DIR$/6sixth-day-2019-5-10/基础函数API考察.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="336">
+              <caret line="12" column="63" lean-forward="true" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -138,6 +140,10 @@
         <option value="$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些" />
         <option value="$PROJECT_DIR$/5fifth-day-2019-5-9/表达式输出什么.html" />
         <option value="$PROJECT_DIR$/5fifth-day-2019-5-9/选择排序练习.html" />
+        <option value="$PROJECT_DIR$/6sixth-day-2019-5-10/css盒子模型.html" />
+        <option value="$PROJECT_DIR$/6sixth-day-2019-5-10/css盒子模型.txt" />
+        <option value="$PROJECT_DIR$/6sixth-day-2019-5-10/html DOCTYPE有什么作用？" />
+        <option value="$PROJECT_DIR$/6sixth-day-2019-5-10/基础函数API考察.html" />
       </list>
     </option>
   </component>
@@ -158,17 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="daily-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="daily-learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -179,7 +174,18 @@
             <path>
               <item name="daily-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="5fifth-day-2019-5-9" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="6sixth-day-2019-5-10" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="daily-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily-learning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,6 +199,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\daily-learning" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,12 +232,13 @@
       <workItem from="1557109798796" duration="4491000" />
       <workItem from="1557194720660" duration="3552000" />
       <workItem from="1557279598827" duration="6558000" />
-      <workItem from="1557367647653" duration="1937000" />
+      <workItem from="1557367647653" duration="2613000" />
+      <workItem from="1557453031243" duration="2951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25748000" />
+    <option name="totallyTimeSpent" value="29375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -387,31 +399,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些？.html">
+    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些？.html" />
+    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/选择排序练习.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="391">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/表达式输出什么.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="266">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/选择排序练习.html">
+    <entry file="file://$PROJECT_DIR$/5fifth-day-2019-5-9/css3新增伪类有哪些">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="152">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6sixth-day-2019-5-10/css盒子模型.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6sixth-day-2019-5-10/html DOCTYPE有什么作用？">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6sixth-day-2019-5-10/基础函数API考察.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="63" lean-forward="true" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    //基础函数API考察
+    console.log(["1","2","3"].map(parseInt));
+    //得到的结果是[1,NaN,NaN],因为parseInt需要两个参数(val,radix),第一个是值，第二个是进制，
+    // 而数组传入了三个参数(element,index,array);传入第一个值为1，index为0；也就是十进制；
+    //第二次传入值为2，index为1，进制中没有一二进制，所以返回NaN
+
+    //parseInt 第一个参数是值，第二个参数时进制。
+</script>
+
+</body>
+</html>
