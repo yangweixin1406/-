@@ -1,0 +1,4 @@
+用来控制元素的盒子模型解析模式，默认是content？
+
+content-box 是w3c的标准盒子模型，设置元素的width/height属性，指的是content部分的宽/高。
+border-box IE传统盒子模型，设置元素的width/height属性，指的是padding+border+content。

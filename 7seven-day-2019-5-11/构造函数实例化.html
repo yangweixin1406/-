@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    function Person(name) {
+        this.name = name;
+        return 1;
+    }
+    var p1 = new Person('Tom');   //  name : 'Tom'
+
+    function Person2(name) {
+        this.name = name;
+        return {a:1};
+    }
+    var p1 = new Person2('Tom');   //{a:1}
+
+    //构造函数实例化的规则是，函数return对象的话，则new出来的
+    //实例对象就是该return的对象，否则就是构造函数默认的实例对象。
+</script>
+
+</body>
+</html>
