@@ -1,0 +1,8 @@
+display的值有哪些，说明它们的意义。
+
+none  隐藏元素
+block  块状
+inline  行内样式
+inline-block   行内块
+table   表格显示
+list-item  项目列表
