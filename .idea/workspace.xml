@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb679bac-1759-4936-bf1a-e2498b8cf842" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8eight-day-2019-5-13/display有哪些值？说明他们的意义" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8eight-day-2019-5-13/ifame框架的优缺点" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8eight-day-2019-5-13/千位分隔符.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8eight-day-2019-5-13/选择排序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9nine-day-2019-5-14/position的值有哪些" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9nine-day-2019-5-14/如何在页面上实现一个圆形可点击区域" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9nine-day-2019-5-14/插入排序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9nine-day-2019-5-14/返回一句话中最长的单词长度.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,12 +21,12 @@
     <session id="1760920010">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -37,13 +37,15 @@
           <entry key="css3新增属性" value="1" />
           <entry key="css选择器有哪些，哪些属性可以继承" value="1" />
           <entry key="display有哪些值？说明他们的意义" value="1" />
-          <entry key="html" value="20" />
+          <entry key="html" value="22" />
           <entry key="html DOCTYPE有什么作用？" value="1" />
           <entry key="html元素有哪些" value="1" />
           <entry key="html全局属性有哪些" value="1" />
           <entry key="ifame框架的优缺点" value="1" />
           <entry key="md" value="1" />
+          <entry key="position的值有哪些" value="1" />
           <entry key="txt" value="1" />
+          <entry key="如何在页面上实现一个圆形可点击区域" value="1" />
           <entry key="简述一下你对html语义化的理解" value="1" />
           <entry key="简述超链接target属性的取值和作用" value="1" />
           <entry key="页面导入样式时，link和@import的区别" value="1" />
@@ -51,8 +53,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="20" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="HTML" value="22" />
+          <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -63,12 +65,14 @@
           <entry key="css3新增属性" value="803" />
           <entry key="css选择器有哪些，哪些属性可以继承" value="201" />
           <entry key="display有哪些值？说明他们的意义" value="113" />
-          <entry key="html" value="4346" />
+          <entry key="html" value="4568" />
           <entry key="html DOCTYPE有什么作用？" value="149" />
           <entry key="html元素有哪些" value="652" />
           <entry key="html全局属性有哪些" value="423" />
           <entry key="ifame框架的优缺点" value="327" />
+          <entry key="position的值有哪些" value="213" />
           <entry key="txt" value="311" />
+          <entry key="如何在页面上实现一个圆形可点击区域" value="64" />
           <entry key="简述一下你对html语义化的理解" value="52" />
           <entry key="简述超链接target属性的取值和作用" value="142" />
           <entry key="页面导入样式时，link和@import的区别" value="317" />
@@ -76,8 +80,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="4346" />
-          <entry key="PLAIN_TEXT" value="4028" />
+          <entry key="HTML" value="4568" />
+          <entry key="PLAIN_TEXT" value="4305" />
         </counts>
       </usages-collector>
     </session>
@@ -85,10 +89,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8eight-day-2019-5-13/选择排序.html">
+        <entry file="file://$PROJECT_DIR$/9nine-day-2019-5-14/插入排序.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="270">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -143,6 +147,10 @@
         <option value="$PROJECT_DIR$/8eight-day-2019-5-13/ifame框架的优缺点" />
         <option value="$PROJECT_DIR$/8eight-day-2019-5-13/千位分隔符.html" />
         <option value="$PROJECT_DIR$/8eight-day-2019-5-13/选择排序.html" />
+        <option value="$PROJECT_DIR$/9nine-day-2019-5-14/position的值有哪些" />
+        <option value="$PROJECT_DIR$/9nine-day-2019-5-14/如何在页面上实现一个圆形可点击区域" />
+        <option value="$PROJECT_DIR$/9nine-day-2019-5-14/返回一句话中最长的单词长度.html" />
+        <option value="$PROJECT_DIR$/9nine-day-2019-5-14/插入排序.html" />
       </list>
     </option>
   </component>
@@ -153,9 +161,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -184,7 +192,7 @@
             <path>
               <item name="daily-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="8eight-day-2019-5-13" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="9nine-day-2019-5-14" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -234,12 +242,13 @@
       <workItem from="1557367647653" duration="2613000" />
       <workItem from="1557453031243" duration="3033000" />
       <workItem from="1557577980798" duration="2227000" />
-      <workItem from="1557712998371" duration="2404000" />
+      <workItem from="1557712998371" duration="3010000" />
+      <workItem from="1557797976506" duration="2566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34088000" />
+    <option name="totallyTimeSpent" value="37260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -457,13 +466,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8eight-day-2019-5-13.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/8eight-day-2019-5-13.html" />
     <entry file="file://$PROJECT_DIR$/7seven-day-2019-5-11/构造函数实例化.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -492,10 +495,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/9nine-day-2019-5-14/position的值有哪些">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/8eight-day-2019-5-13/选择排序.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="162">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9nine-day-2019-5-14/如何在页面上实现一个圆形可点击区域">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9nine-day-2019-5-14/返回一句话中最长的单词长度.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9nine-day-2019-5-14/插入排序.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>

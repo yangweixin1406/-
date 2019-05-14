@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    function words(str) {
+        var arr = str.split(" ");
+        var maxLength = 0;
+        for(var i=0;i<arr.length;i++){
+            if(arr[i].length > maxLength){
+                maxLength = arr[i].length;
+            }
+        }
+        return maxLength;
+    }
+
+    var sentence = "I am your father you know";
+    console.log(words(sentence));
+</script>
+
+</body>
+</html>

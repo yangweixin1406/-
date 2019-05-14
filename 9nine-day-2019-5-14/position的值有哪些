@@ -1,0 +1,6 @@
+position的值有哪些？他们分别代表什么？
+
+static:   默认值，按正常文档流排列。
+relative: 相对定位，不脱离文档流，参考自身静态位置，通过top，left，right，bottom定位。
+absolute：绝对定位，脱离文档流，参考距其最近一个不为static的父级元素定位。
+fixed：   固定定位，所固定的参照对象是可视窗口。
