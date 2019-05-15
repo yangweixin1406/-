@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb679bac-1759-4936-bf1a-e2498b8cf842" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/9nine-day-2019-5-14/position的值有哪些" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9nine-day-2019-5-14/如何在页面上实现一个圆形可点击区域" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9nine-day-2019-5-14/插入排序.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9nine-day-2019-5-14/返回一句话中最长的单词长度.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10ten-day-2019-5-15/为什么要初始化css样式" beforeDir="false" afterPath="$PROJECT_DIR$/10ten-day-2019-5-15/为什么要初始化css样式" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10ten-day-2019-5-15/从地址栏输入url到页面加载完成发生了什么？" beforeDir="false" afterPath="$PROJECT_DIR$/10ten-day-2019-5-15/从地址栏输入url到页面加载完成发生了什么？" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10ten-day-2019-5-15/实现数组的随机排序.html" beforeDir="false" afterPath="$PROJECT_DIR$/10ten-day-2019-5-15/实现数组的随机排序.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9nine-day-2019-5-14/插入排序.html" beforeDir="false" afterPath="$PROJECT_DIR$/9nine-day-2019-5-14/插入排序.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,12 +21,12 @@
     <session id="1760920010">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -37,7 +37,7 @@
           <entry key="css3新增属性" value="1" />
           <entry key="css选择器有哪些，哪些属性可以继承" value="1" />
           <entry key="display有哪些值？说明他们的意义" value="1" />
-          <entry key="html" value="22" />
+          <entry key="html" value="24" />
           <entry key="html DOCTYPE有什么作用？" value="1" />
           <entry key="html元素有哪些" value="1" />
           <entry key="html全局属性有哪些" value="1" />
@@ -45,6 +45,8 @@
           <entry key="md" value="1" />
           <entry key="position的值有哪些" value="1" />
           <entry key="txt" value="1" />
+          <entry key="为什么要初始化css样式" value="1" />
+          <entry key="从地址栏输入url到页面加载完成发生了什么？" value="1" />
           <entry key="如何在页面上实现一个圆形可点击区域" value="1" />
           <entry key="简述一下你对html语义化的理解" value="1" />
           <entry key="简述超链接target属性的取值和作用" value="1" />
@@ -53,8 +55,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="22" />
-          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="HTML" value="24" />
+          <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -65,13 +67,15 @@
           <entry key="css3新增属性" value="803" />
           <entry key="css选择器有哪些，哪些属性可以继承" value="201" />
           <entry key="display有哪些值？说明他们的意义" value="113" />
-          <entry key="html" value="4568" />
+          <entry key="html" value="5066" />
           <entry key="html DOCTYPE有什么作用？" value="149" />
           <entry key="html元素有哪些" value="652" />
           <entry key="html全局属性有哪些" value="423" />
           <entry key="ifame框架的优缺点" value="327" />
           <entry key="position的值有哪些" value="213" />
           <entry key="txt" value="311" />
+          <entry key="为什么要初始化css样式" value="76" />
+          <entry key="从地址栏输入url到页面加载完成发生了什么？" value="815" />
           <entry key="如何在页面上实现一个圆形可点击区域" value="64" />
           <entry key="简述一下你对html语义化的理解" value="52" />
           <entry key="简述超链接target属性的取值和作用" value="142" />
@@ -80,19 +84,46 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="4568" />
-          <entry key="PLAIN_TEXT" value="4305" />
+          <entry key="HTML" value="5066" />
+          <entry key="PLAIN_TEXT" value="5196" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/9nine-day-2019-5-14/插入排序.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="330">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10ten-day-2019-5-15/为什么要初始化css样式">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10ten-day-2019-5-15/从地址栏输入url到页面加载完成发生了什么？">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10ten-day-2019-5-15/实现数组的随机排序.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -151,6 +182,9 @@
         <option value="$PROJECT_DIR$/9nine-day-2019-5-14/如何在页面上实现一个圆形可点击区域" />
         <option value="$PROJECT_DIR$/9nine-day-2019-5-14/返回一句话中最长的单词长度.html" />
         <option value="$PROJECT_DIR$/9nine-day-2019-5-14/插入排序.html" />
+        <option value="$PROJECT_DIR$/10ten-day-2019-5-15/为什么要初始化css样式" />
+        <option value="$PROJECT_DIR$/10ten-day-2019-5-15/从地址栏输入url到页面加载完成发生了什么？" />
+        <option value="$PROJECT_DIR$/10ten-day-2019-5-15/实现数组的随机排序.html" />
       </list>
     </option>
   </component>
@@ -162,7 +196,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -171,17 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="daily-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="daily-learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -192,7 +215,18 @@
             <path>
               <item name="daily-learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="9nine-day-2019-5-14" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="10ten-day-2019-5-15" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="daily-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily-learning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,15 +277,16 @@
       <workItem from="1557453031243" duration="3033000" />
       <workItem from="1557577980798" duration="2227000" />
       <workItem from="1557712998371" duration="3010000" />
-      <workItem from="1557797976506" duration="2566000" />
+      <workItem from="1557797976506" duration="2571000" />
+      <workItem from="1557885249153" duration="6190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37260000" />
+    <option name="totallyTimeSpent" value="43455000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15587847" />
@@ -523,10 +558,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/10ten-day-2019-5-15/为什么要初始化css样式">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/9nine-day-2019-5-14/插入排序.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="330">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10ten-day-2019-5-15/从地址栏输入url到页面加载完成发生了什么？">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10ten-day-2019-5-15/实现数组的随机排序.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
     </entry>
